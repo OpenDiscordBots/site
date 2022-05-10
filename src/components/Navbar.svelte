@@ -10,8 +10,8 @@
     <span class="name">OpenDiscordBots</span>
   </div>
   <div class="navLinkContainer">
-    <a href="/github" class="navLink">GitHub</a>
-    <a href="/support" class="navLink">Support</a>
+    <a href="/" class="navLink">GitHub</a>
+    <a href="/" class="navLink">Support</a>
   </div>
 </div>
 
